@@ -15,7 +15,7 @@ As usual, make sure you type (never copy and paste), test, understand all exampl
 Read or watch the below resources in the order presented.
 
 Resources
----------
+----------
 
 **Read or watch**:
 
