@@ -1,5 +1,5 @@
 0x08. Python - More Classes and Objects
-By Halima Iyke - Oginah
+By: Halima Iyke - Oginah
 Weight: 1
 In a nutshell...
 Auto QA review: 0.0/106 mandatory & 0.0/15 optional
