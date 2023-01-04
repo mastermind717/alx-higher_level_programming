@@ -1,7 +1,7 @@
 0x09. Python - Everything is object
 ===================================
 
--   By Halima Iyke Oginah
+-   By: Halima Iyke Oginah
 -   Weight: 1
 -   Project over - took place from 12-14-2021 to 12-15-2021 - you're done with 10% of tasks.
 -   QA review fully automated.
