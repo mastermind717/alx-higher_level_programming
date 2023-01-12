@@ -18,3 +18,4 @@ Some simple exercises to get us acquinted with the concept of inheritance in pyt
 * [11-square.py](11-square.py)
 * [100-my_int.py](100-my_int.py)
 * [101-add_attribute.py](101-add_attribute.py)
+Halima Iyke - Oginah
